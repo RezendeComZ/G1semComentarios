@@ -1,0 +1,1 @@
+document.getElementById('boxComentarios').style.display = "none"
